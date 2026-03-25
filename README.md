@@ -9,7 +9,8 @@ The Sales & Profit Dashboard provides a complete analytical view through several
 🔹 Key Metrics
 •	Total Sales: $1,928,888
 •	Total Profit: $247,962
-https://github.com/user-attachments/assets/27a8a3c7-cc14-4723-8d54-4a8a45665090
+
+https://github.com/user-attachments/assets/b4a64778-d4e5-4cab-9a37-c21c6cac4b98
 
 ________________________________________
 📈 Dashboard Visuals
